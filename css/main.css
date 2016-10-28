@@ -1,21 +1,16 @@
 html {
   font-family: Merriweather, serif;
+  color: #333;
 }
 
 .event {
   border-radius: 8px;
 }
 
-  *, *::before, *::after {
-    box-sizing: inherit;
-
-
-}
-
 .grey {
   background-color: #f2f2f2;
-  color:  #666;
-  border: 1px solid #333;
+  color:  #333;
+  border: 1px solid #666;
 }
 
 .red {
@@ -34,4 +29,16 @@ html {
   background-color: #d1e0bf;
   color: #51603f;
   border: 1px solid #6b7e54;
+}
+
+td {
+  border: 1px solid #ccc;
+}
+
+th {
+  border: 1px solid #ccc;
+}
+
+caption {
+  text-align: center;
 }
