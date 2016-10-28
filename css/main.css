@@ -9,7 +9,7 @@ html {
 
 .grey {
   background-color: #f2f2f2;
-  color:  #333;
+  color: #333;
   border: 1px solid #666;
 }
 
@@ -37,8 +37,4 @@ td {
 
 th {
   border: 1px solid #ccc;
-}
-
-caption {
-  text-align: center;
 }
